@@ -1,0 +1,2 @@
+# TypescriptTraining
+Fot trainings purpose
